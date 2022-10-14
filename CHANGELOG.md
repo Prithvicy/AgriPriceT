@@ -8,7 +8,7 @@
 
 - Migration from Material-UI to MUI v5.
 - Migration from JSS to `styled` api, emotion and `sx` prop.
-- Product folders and files structured are updated: [README](https://github.com/creativetimofficial/material-kit-react/blob/main/README.md)
+- Product folders and files structured are updated: [README](https://github.com/creatingtimofficial/material-kit-react/blob/main/README.md)
 - New components are added
 - New example blocks are added
 - Components and Example Blocks are now totally customizable and reusable
@@ -116,11 +116,11 @@ web-vitals
 
 ### Bug fixing
 
-- https://github.com/creativetimofficial/material-kit-react/issues/86
+- https://github.com/creatingtimofficial/material-kit-react/issues/86
   - This issue cannot be solved, it comes from the `react-swipeable-views` plugin, this plugins is no longer maintained, even `Material-UI` has dropped its usage and stopped animating the `Nav Pills`, so, we’ve dropped their usage as well
-- https://github.com/creativetimofficial/material-kit-react/issues/85
+- https://github.com/creatingtimofficial/material-kit-react/issues/85
   - Tested this inside a Linux environment, and evrything worked as expected, maybe the issue was solved by the new Material-UI version
-- https://github.com/creativetimofficial/material-kit-react/issues/75
+- https://github.com/creatingtimofficial/material-kit-react/issues/75
   - This issue will be closed, as people might want to change the brand component from `Button` to something else, for example a `Link` from `react-router-dom`
 
 ### Major style changes
@@ -178,7 +178,7 @@ _You will also have the following message: found 80 vulnerabilities (1 low, 79 m
 
 ### Bug fixing
 
-- https://github.com/creativetimofficial/material-kit-react/issues/67
+- https://github.com/creatingtimofficial/material-kit-react/issues/67
 
 ### Major style changes
 
@@ -279,8 +279,8 @@ typescript                                 3.5.1   →    3.5.3
 - Changed all string refs to `React.createRef()`
 - Added types validation in each component
 - Solved linting issues
-- Solved https://github.com/creativetimofficial/material-kit-react/issues/52
-- Solved https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/149
+- Solved https://github.com/creatingtimofficial/material-kit-react/issues/52
+- Solved https://github.com/creatingtimofficial/ct-material-dashboard-pro-react/issues/149
 
 ### Major style changes
 
@@ -322,8 +322,8 @@ eslint-plugin-prettier                     3.0.1   →    3.1.0
 
 ### Bug fixing
 
-- https://github.com/creativetimofficial/material-kit-react/issues/46
-- https://github.com/creativetimofficial/material-kit-react/issues/44
+- https://github.com/creatingtimofficial/material-kit-react/issues/46
+- https://github.com/creatingtimofficial/material-kit-react/issues/44
 - Updated available scripts
 - Changed the _.babelrc_ file
 
@@ -384,9 +384,9 @@ eslint-plugin-prettier                     3.0.1   →    3.1.0
 ### Bug fixing
 
 - Github own repo
-  - [https://github.com/creativetimofficial/material-kit-react/issues/36](https://github.com/creativetimofficial/material-kit-react/issues/36)
+  - [https://github.com/creatingtimofficial/material-kit-react/issues/36](https://github.com/creatingtimofficial/material-kit-react/issues/36)
 - Github othe repos
-  - [https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/79](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/79)
+  - [https://github.com/creatingtimofficial/ct-material-dashboard-pro-react/issues/79](https://github.com/creatingtimofficial/ct-material-dashboard-pro-react/issues/79)
 
 ### Major styling changes
 
@@ -424,10 +424,10 @@ eslint-plugin-prettier                     3.0.1   →    3.1.0
 - Added lint commands
 - Minor changes in components due to the upgrade of `@material-ui/icons`
 - Github
-  - [https://github.com/creativetimofficial/material-kit-react/issues/16](https://github.com/creativetimofficial/material-kit-react/issues/16)
-  - [https://github.com/creativetimofficial/material-kit-react/issues/25](https://github.com/creativetimofficial/material-kit-react/issues/25)
-  - [https://github.com/creativetimofficial/material-kit-react/issues/26](https://github.com/creativetimofficial/material-kit-react/issues/26)
-  - [https://github.com/creativetimofficial/material-kit-react/issues/28](https://github.com/creativetimofficial/material-kit-react/issues/28)
+  - [https://github.com/creatingtimofficial/material-kit-react/issues/16](https://github.com/creatingtimofficial/material-kit-react/issues/16)
+  - [https://github.com/creatingtimofficial/material-kit-react/issues/25](https://github.com/creatingtimofficial/material-kit-react/issues/25)
+  - [https://github.com/creatingtimofficial/material-kit-react/issues/26](https://github.com/creatingtimofficial/material-kit-react/issues/26)
+  - [https://github.com/creatingtimofficial/material-kit-react/issues/28](https://github.com/creatingtimofficial/material-kit-react/issues/28)
 
 ### Major styling changes
 
@@ -504,4 +504,4 @@ eslint-plugin-prettier                     3.0.1   →    3.1.0
 ### Original Release
 
 - Added Material-UI as base framework
-- Added design from Material Dashboard by Creative Tim
+- Added design from Material Dashboard by creating Tim

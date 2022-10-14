@@ -1,18 +1,3 @@
-/*
-=========================================================
-* Agrov React - v2.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-kit-react
-* Copyright 2022 Team Explicits (https://www.creative-tim.com)
-
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
 // @mui material components
 import Grid from "@mui/material/Grid";
 
@@ -41,7 +26,7 @@ function ContactUs() {
           routes={routes}
           action={{
             type: "external",
-            route: "https://www.creative-tim.com/product/material-kit-react",
+            route: "https://www.creating-tim.com/product/material-kit-react",
             label: "Subscribe to Premium",
             color: "info",
           }}
@@ -96,7 +81,7 @@ function ContactUs() {
             <MKBox p={3}>
               <MKTypography variant="body2" color="text" mb={3}>
                 For further questions, including partnership opportunities, please email
-                hello@creative-tim.com or contact using our contact form.
+                hello@creating-tim.com or contact using our contact form.
               </MKTypography>
               <MKBox width="100%" component="form" method="post" autocomplete="off">
                 <Grid container spacing={3}>

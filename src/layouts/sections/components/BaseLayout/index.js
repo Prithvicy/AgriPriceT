@@ -13,7 +13,7 @@ import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import routes from "routes";
 
 const url =
-  "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=579b464db66ec23bdd0000018e83c5b937d148db665f18e9e218c66c&format=json&limit=10000";
+  "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=579b464db66ec23bdd000001a026355ed5ba4aeb4109176edc2d4adf&format=json&limit=10000";
 function BaseLayout() {
   const [vegetables, setVegetables] = useState([]);
   const fetchVeggie = async () => {

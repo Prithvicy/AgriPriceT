@@ -2,16 +2,16 @@
   "name": "material-kit-2-react",
   "version": "2.0.0",
   "private": true,
-  "author": "Creative Tim",
-  "license": "See license in https://www.creative-tim.com/license",
-  "description": "React version of Agrov by Creative Tim",
-  "homepage": "https://demos.creative-tim.com/material-kit-react/#/",
+  "author": "creating Tim",
+  "license": "See license in https://www.creating-tim.com/license",
+  "description": "React version of Agrov by creating Tim",
+  "homepage": "https://demos.creating-tim.com/material-kit-react/#/",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
+    "url": "https://github.com/creatingtimofficial/ct-material-kit-react/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+    "url": "git+https://github.com/creatingtimofficial/ct-material-kit-react.git"
   },
   "engines": {
     "node": "14 || 15 || 16",

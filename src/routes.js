@@ -202,22 +202,22 @@ const routes = [
       {
         name: "Vegetables",
         description: "At best prices!",
-        href: "https://www.creative-tim.com/learning-lab/react/quick-start/material-kit/",
+        href: "https://www.creating-tim.com/learning-lab/react/quick-start/material-kit/",
       },
       {
         name: "Fruits",
         description: "Freshly Picked!",
-        href: "https://www.creative-tim.com/learning-lab/react/colors/material-kit/",
+        href: "https://www.creating-tim.com/learning-lab/react/colors/material-kit/",
       },
       {
         name: "Grains",
         description: "Best Prices!",
-        href: "https://www.creative-tim.com/learning-lab/react/alerts/material-kit/",
+        href: "https://www.creating-tim.com/learning-lab/react/alerts/material-kit/",
       },
       {
         name: "Organic",
         description: "Organice at the best price!!",
-        href: "https://www.creative-tim.com/learning-lab/react/datepicker/material-kit/",
+        href: "https://www.creating-tim.com/learning-lab/react/datepicker/material-kit/",
       },
     ],
   },

@@ -1,17 +1,3 @@
-/**
-=========================================================
-* Agrov React - v2.0.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-kit-react
-* Copyright 2022 Team Explicits (https://www.creative-tim.com)
-
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
 
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
@@ -105,30 +91,30 @@ function CenteredFooter({ company, links, socials, light }) {
 
 // Setting default values for the props of CenteredFooter
 CenteredFooter.defaultProps = {
-  company: { href: "https://www.creative-tim.com/", name: "Creative Tim" },
+  company: { href: "https://www.creating-tim.com/", name: "creating Tim" },
   links: [
-    { href: "https://www.creative-tim.com/", name: "Company" },
-    { href: "https://www.creative-tim.com/presentation", name: "About Us" },
-    { href: "https://www.creative-tim.com/presentation", name: "Team" },
-    { href: "https://www.creative-tim.com/templates/react", name: "Products" },
-    { href: "https://www.creative-tim.com/blog", name: "Blog" },
-    { href: "https://www.creative-tim.com/license", name: "License" },
+    { href: "https://www.creating-tim.com/", name: "Company" },
+    { href: "https://www.creating-tim.com/presentation", name: "About Us" },
+    { href: "https://www.creating-tim.com/presentation", name: "Team" },
+    { href: "https://www.creating-tim.com/templates/react", name: "Products" },
+    { href: "https://www.creating-tim.com/blog", name: "Blog" },
+    { href: "https://www.creating-tim.com/license", name: "License" },
   ],
   socials: [
-    { icon: <FacebookIcon fontSize="small" />, link: "https://www.facebook.com/CreativeTim/" },
+    { icon: <FacebookIcon fontSize="small" />, link: "https://www.facebook.com/creatingTim/" },
     {
       icon: <TwitterIcon fontSize="small" />,
-      link: "https://twitter.com/creativetim",
+      link: "https://twitter.com/creatingtim",
     },
     {
       icon: <InstagramIcon fontSize="small" />,
-      link: "https://www.instagram.com/creativetimofficial/",
+      link: "https://www.instagram.com/creatingtimofficial/",
     },
     {
       icon: <PinterestIcon fontSize="small" />,
-      link: "https://ro.pinterest.com/thecreativetim/",
+      link: "https://ro.pinterest.com/thecreatingtim/",
     },
-    { icon: <GitHubIcon fontSize="small" />, link: "https://github.com/creativetimofficial" },
+    { icon: <GitHubIcon fontSize="small" />, link: "https://github.com/creatingtimofficial" },
   ],
   light: false,
 };
